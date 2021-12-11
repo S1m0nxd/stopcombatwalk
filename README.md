@@ -9,5 +9,3 @@ Install (CZ/SK)
 1. Zober zložku a daj ju do "resource" zložky
 2. startni v server.cfg
 
-
-video: https://youtu.be/k2dde7BGUBw
